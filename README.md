@@ -5,7 +5,7 @@
 
 I am a Flutter & Machine Learning Enthusiast from India <img width="21px" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/120px-Flag_of_India.svg.png" style="margin-left:4px"/>
 
-- 📚 I’m currently learning FrontEnd Framework like React & Flutter
+- 📚 I’m currently learning FrontEnd Framework like React Js & Flutter
 - 📚 I'm currently learning BackEnd Framework like Nodejs & PHP
 
 
