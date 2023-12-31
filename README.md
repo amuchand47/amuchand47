@@ -1,4 +1,4 @@
-### Hello World 🌍 I'm [Mohammad Chand Alam!] 👋
+### Hello World 🌍 I'm Mohammad Chand Alam! 👋
 
 <br />
 <br />
